@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmut</h1>
-<h3 align="center"> I am Software Engineer senior grade student from Turkey</h3>
+<h3 align="center"> I am Software Engineer new grade from Turkey. I'm working at the Network Hardwares company as Backend Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/mahmutatasbjk" target="blank"><img src="https://img.shields.io/twitter/follow/mahmutatasbjk?logo=twitter&style=for-the-badge" alt="mahmutatasbjk" /></a> </p>
 
