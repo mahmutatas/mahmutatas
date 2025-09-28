@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmut</h1>
-<h3 align="center"> I am Software Engineer new grade from Turkey. I'm working at the Network Hardwares company as Backend Developer</h3>
+<h3 align="center"> Backend Software Engineer with 3+ years of experience developing scalable Java applications using Quarkus </h3>
 
 <p align="left"> <a href="https://twitter.com/mahmutatasbjk" target="blank"><img src="https://img.shields.io/twitter/follow/mahmutatasbjk?logo=twitter&style=for-the-badge" alt="mahmutatasbjk" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C/C++**
 
-- 📫 How to reach me **ataslar432@gmail.com**
+- 📫 How to reach me **mahmut_atas03@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
