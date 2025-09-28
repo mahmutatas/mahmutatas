@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/mahmutatasbjk" target="blank"><img src="https://img.shields.io/twitter/follow/mahmutatasbjk?logo=twitter&style=for-the-badge" alt="mahmutatasbjk" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Technologies**
-
-- 📝 I regularly write articles on [https://medium.com/@mahmutatas](https://medium.com/@mahmutatas)
-
-- 💬 Ask me about **C/C++**
-
 - 📫 How to reach me **mahmut_atas03@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
